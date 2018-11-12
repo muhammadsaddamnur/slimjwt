@@ -25,3 +25,6 @@ Run this command in the application directory to run the test suite
 	php composer.phar test
 
 That's it! Now go build something cool.
+
+
+Untuk JWTnya selengkapnya baca di https://arjunphp.com/secure-web-services-using-jwt-slim3-framework/
